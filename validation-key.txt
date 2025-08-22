@@ -11,7 +11,7 @@
 #
 #
 
-# Frontend app URL and bare domain name:
+# Frontend app URL and bare domain name:https://www.vestvault.app.com/validation-key.txt
 FRONTEND_URL=https://frontend.example.com
 FRONTEND_DOMAIN_NAME=frontend.example.com
 
@@ -22,8 +22,8 @@ BACKEND_DOMAIN_NAME=backend.example.com
 
 # Obtain the following 2 values on the Pi Developer Portal (open develop.pi in the Pi Browser).
 
-# Domain validation key:
-DOMAIN_VALIDATION_KEY=todo_developer_portal
+# Domain validation key:https://www.vestvault.app.com/validation-key.txt
+DOMAIN_VALIDATION_KEY=todo_developer_portalhttps://www.vestvault.app.com/validation-key.txt
 # Pi Platform API Key:
 PI_API_KEY=todo_developer_portal
 
